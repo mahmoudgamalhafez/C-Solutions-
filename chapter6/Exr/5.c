@@ -1,0 +1,3 @@
+/* 
+c is not equivelnt because it executes at least once before condition
+*/
